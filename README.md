@@ -111,7 +111,7 @@ Paquetes: `fp.tipos.hoteles`, `fp.tipos.hoteles.test`
 - *número de comentarios*, de tipo Integer, consultable. Número de usuarios que han realizado un comentario sobre el hotel y le han dado una puntuación.
 - *admite mascotas*, de tipo Boolean, consultable. Indica si el hotel admite mascotas.
 - *está adaptado*, de tipo Boolean, consultable. Indica si el hotel está adaptado para minusválidos.
-- *coordenadas,* de tipo Coordenada, consultable. Coordenadas en las que está situado el hotel.
+- *coordenadas,* de tipo Coordenadas, consultable. Coordenadas en las que está situado el hotel.
 - *cadena con formato,* de tipo String, consultable. El nombre del hotel, seguido entre paréntesis de tantos asteriscos como estrellas tenga (por ejemplo, “Hotel Alfonso XIII - A Luxury Collection Hotel (\*\*\*\*\*)”), o N/A si la categoría hotelera es OTROS (ej., “Hotel Dawson Place, Juliette's Bed and Breakfast (N/A)”).
 
 **Constructores:** 
